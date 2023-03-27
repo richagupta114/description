@@ -1,4 +1,4 @@
-STRONGLINK
+STRONGLINK:
 INTRODUCTION:
 Stronglink provides strong control over data for informed decisions fastly. It changes the way data is written to provide agility ,  security ,management.
 
