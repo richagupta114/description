@@ -1,0 +1,36 @@
+STRONGLINK
+INTRODUCTION:
+Stronglink provides strong control over data for informed decisions fastly. It changes the way data is written to provide agility ,  security ,management.
+
+PROJECT SUMMARY:
+WEBSITE	https://stronglink.com/
+FOUNDATION	stronglink
+OPEN/PROPREITARY	open
+LICENSE	commercial
+SOURCE CODE	https://github.com/btrask/stronglink/blob/master/INSERT.md
+
+
+BRIEF DETAILS:
+Cost effective manner is followed
+
+PROJECT DETAILS:
+KEY FEATURES:
+•	Storage space is reduced
+•	Security and compliance
+•	Single view of all data in cloud
+•	Delivers data independence
+•	Disaster removed on multiple-site support
+
+
+ARCHITECTURE :
+Large scale data environment to secure, index, manage and optimize all data to storage vendors, tiers and cloud. 
+
+About the environment of the architecture:
+•	Large data storage
+•	Files movement is done
+
+
+CURRENT  USAGE  :
+Scales from terabyte to exabyte with single scalable platform.
+
+
